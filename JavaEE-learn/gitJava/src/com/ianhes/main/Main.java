@@ -9,8 +9,11 @@ public class Main {
 		String n = "br";
 		
 		
+		
 		if(n != "br") {
 			System.out.println(text);
+		}else {
+			System.out.println(text2);
 		}
 		
 		
